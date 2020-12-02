@@ -11,10 +11,10 @@ public class Main {
 
         String[] animals = {"Lion", "Tiger", "Leopard"};
         int animalLifeScore = 40; //points
-        int animalAttackScore = 50; //points
+        int animalAttackScore = 10; //points
 
         int playerLifeScore = 40; //points
-        int playerAttackScore = 50; //points
+        int playerAttackScore = 10; //points
 
         System.out.println("Welcome to the wild!");
         System.out.println("---------------------");
